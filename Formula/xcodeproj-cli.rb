@@ -1,12 +1,12 @@
 class XcodeprojCli < Formula
   desc "Command-line tool for manipulating Xcode project files"
   homepage "https://github.com/tolo/xcodeproj-cli"
-  version "2.2.1"
+  version "2.3.0"
   
   # URL will be updated automatically after GitHub Actions creates the release
-  url "https://github.com/tolo/xcodeproj-cli/releases/download/v2.2.1/xcodeproj-cli-v2.2.1-macos.tar.gz"
+  url "https://github.com/tolo/xcodeproj-cli/releases/download/v2.3.0/xcodeproj-cli-v2.3.0-macos.tar.gz"
   # SHA256 will be updated automatically after release
-  sha256 "096c59cf47f076ff1ba4067842622e01faf65908c0599939f2dea3f8d4e9fde1"
+  sha256 "d476f8e79863f8863673594f62af19d4f6833b74edc4ebb660b355c9f46a3f7d"
   
   license "MIT"
   
